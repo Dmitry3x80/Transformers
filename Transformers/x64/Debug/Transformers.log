@@ -1,0 +1,7 @@
+﻿  TrainModel.cpp
+C:\C++\Transformers\Transformers\bpe_trainer.h(23,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\Transformers\Transformers\bpe_trainer.h(53,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\Transformers\Transformers\bpe_trainer.h(96,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\Transformers\Transformers\TrainModel.cpp(65,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\Transformers\Transformers\TrainModel.cpp(67,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Transformers.vcxproj -> C:\C++\Transformers\x64\Debug\Transformers.exe

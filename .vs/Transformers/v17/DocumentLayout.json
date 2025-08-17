@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\Transformers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\TrainModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\TrainModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\bpe_tokenizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\bpe_tokenizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\data_preparer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\data_preparer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\bpe_trainer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\bpe_trainer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Decoder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Decoder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\InferenceModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\InferenceModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\DecoderLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\DecoderLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Softmax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Softmax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\MultiHeadAttention.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\MultiHeadAttention.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\MultiHeadAttention.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\MultiHeadAttention.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Transformer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Transformer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Embedding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Embedding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Linear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Linear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\AddNorm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\AddNorm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\FeedForward.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\FeedForward.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\AddNorm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\AddNorm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\ErrorPlot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\ErrorPlot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Embedding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Embedding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\ErrorPlot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\ErrorPlot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Decoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Decoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Encoder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Encoder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\FeedForward.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\FeedForward.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\Transformer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\Transformer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|C:\\C\u002B\u002B\\Transformers\\Transformers\\DecoderLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{823BF949-3DD4-4339-965C-A98FAEA65C51}|Transformers\\Transformers.vcxproj|solutionrelative:Transformers\\DecoderLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bpe_tokenizer.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\bpe_tokenizer.h",
+              "RelativeDocumentMoniker": "Transformers\\bpe_tokenizer.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\bpe_tokenizer.h",
+              "RelativeToolTip": "Transformers\\bpe_tokenizer.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-17T01:25:57.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data_preparer.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\data_preparer.h",
+              "RelativeDocumentMoniker": "Transformers\\data_preparer.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\data_preparer.h",
+              "RelativeToolTip": "Transformers\\data_preparer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-17T01:24:17.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Decoder.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Decoder.h",
+              "RelativeDocumentMoniker": "Transformers\\Decoder.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Decoder.h",
+              "RelativeToolTip": "Transformers\\Decoder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T23:16:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeedForward.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\FeedForward.cpp",
+              "RelativeDocumentMoniker": "Transformers\\FeedForward.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\FeedForward.cpp",
+              "RelativeToolTip": "Transformers\\FeedForward.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T01:11:18.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeedForward.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\FeedForward.h",
+              "RelativeDocumentMoniker": "Transformers\\FeedForward.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\FeedForward.h",
+              "RelativeToolTip": "Transformers\\FeedForward.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T23:13:15.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\main.cpp",
+              "RelativeDocumentMoniker": "Transformers\\main.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\main.cpp",
+              "RelativeToolTip": "Transformers\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T21:18:29.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MultiHeadAttention.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\MultiHeadAttention.h",
+              "RelativeDocumentMoniker": "Transformers\\MultiHeadAttention.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\MultiHeadAttention.h",
+              "RelativeToolTip": "Transformers\\MultiHeadAttention.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T23:14:51.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiHeadAttention.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\MultiHeadAttention.cpp",
+              "RelativeDocumentMoniker": "Transformers\\MultiHeadAttention.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\MultiHeadAttention.cpp",
+              "RelativeToolTip": "Transformers\\MultiHeadAttention.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAADwv5IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T22:12:22.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Linear.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Linear.cpp",
+              "RelativeDocumentMoniker": "Transformers\\Linear.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Linear.cpp",
+              "RelativeToolTip": "Transformers\\Linear.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T10:37:52.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Softmax.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Softmax.cpp",
+              "RelativeDocumentMoniker": "Transformers\\Softmax.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Softmax.cpp",
+              "RelativeToolTip": "Transformers\\Softmax.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T10:12:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transformer.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Transformer.cpp",
+              "RelativeDocumentMoniker": "Transformers\\Transformer.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Transformer.cpp",
+              "RelativeToolTip": "Transformers\\Transformer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T10:08:50.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InferenceModel.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\InferenceModel.cpp",
+              "RelativeDocumentMoniker": "Transformers\\InferenceModel.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\InferenceModel.cpp",
+              "RelativeToolTip": "Transformers\\InferenceModel.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAADwv2IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T21:53:28.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainModel.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\TrainModel.cpp",
+              "RelativeDocumentMoniker": "Transformers\\TrainModel.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\TrainModel.cpp",
+              "RelativeToolTip": "Transformers\\TrainModel.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T21:56:34.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bpe_trainer.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\bpe_trainer.h",
+              "RelativeDocumentMoniker": "Transformers\\bpe_trainer.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\bpe_trainer.h",
+              "RelativeToolTip": "Transformers\\bpe_trainer.h",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-17T00:28:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DecoderLayer.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\DecoderLayer.cpp",
+              "RelativeDocumentMoniker": "Transformers\\DecoderLayer.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\DecoderLayer.cpp",
+              "RelativeToolTip": "Transformers\\DecoderLayer.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T20:14:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Decoder.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Decoder.cpp",
+              "RelativeDocumentMoniker": "Transformers\\Decoder.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Decoder.cpp",
+              "RelativeToolTip": "Transformers\\Decoder.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T20:34:45.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorPlot.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\ErrorPlot.h",
+              "RelativeDocumentMoniker": "Transformers\\ErrorPlot.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\ErrorPlot.h",
+              "RelativeToolTip": "Transformers\\ErrorPlot.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-02T19:40:49.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Embedding.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Embedding.cpp",
+              "RelativeDocumentMoniker": "Transformers\\Embedding.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Embedding.cpp",
+              "RelativeToolTip": "Transformers\\Embedding.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-02T23:44:41.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddNorm.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\AddNorm.h",
+              "RelativeDocumentMoniker": "Transformers\\AddNorm.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\AddNorm.h",
+              "RelativeToolTip": "Transformers\\AddNorm.h",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T17:26:43.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddNorm.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\AddNorm.cpp",
+              "RelativeDocumentMoniker": "Transformers\\AddNorm.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\AddNorm.cpp",
+              "RelativeToolTip": "Transformers\\AddNorm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T00:32:46.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "utils.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\utils.cpp",
+              "RelativeDocumentMoniker": "Transformers\\utils.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\utils.cpp",
+              "RelativeToolTip": "Transformers\\utils.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T19:15:12.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorPlot.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\ErrorPlot.cpp",
+              "RelativeDocumentMoniker": "Transformers\\ErrorPlot.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\ErrorPlot.cpp",
+              "RelativeToolTip": "Transformers\\ErrorPlot.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-02T19:40:53.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Embedding.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Embedding.h",
+              "RelativeDocumentMoniker": "Transformers\\Embedding.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Embedding.h",
+              "RelativeToolTip": "Transformers\\Embedding.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-21T21:31:38.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "utils.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\utils.h",
+              "RelativeDocumentMoniker": "Transformers\\utils.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\utils.h",
+              "RelativeToolTip": "Transformers\\utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-02T23:46:41.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Transformer.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Transformer.h",
+              "RelativeDocumentMoniker": "Transformers\\Transformer.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Transformer.h",
+              "RelativeToolTip": "Transformers\\Transformer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T10:08:57.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DecoderLayer.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\DecoderLayer.h",
+              "RelativeDocumentMoniker": "Transformers\\DecoderLayer.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\DecoderLayer.h",
+              "RelativeToolTip": "Transformers\\DecoderLayer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T22:37:58.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Encoder.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Encoder.h",
+              "RelativeDocumentMoniker": "Transformers\\Encoder.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Transformers\\Transformers\\Encoder.h",
+              "RelativeToolTip": "Transformers\\Encoder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-02T22:20:55.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
